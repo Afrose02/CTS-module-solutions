@@ -17,3 +17,4 @@ public class GradeCalculator {
             System.out.println("Grade: F");
         }
     }
+}
